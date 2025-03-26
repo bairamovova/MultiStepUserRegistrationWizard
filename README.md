@@ -1,6 +1,6 @@
 ## 🌟 Multi-Step User Registration Wizard
 
-###[DEMO](https://multi-step-user-registration-wizard.vercel.app)
+[DEMO](https://multi-step-user-registration-wizard.vercel.app)
 
 A modern **multi-step user registration wizard** built with **Vite + React + TypeScript + MUI + Zustand + SCSS**.
 
@@ -106,12 +106,6 @@ pnpm preview
 - **State Management**: [Zustand](https://zustand-demo.pmnd.rs/)
 - **UI Library**: [MUI](https://mui.com/)
 - **Styling**: SCSS
-
----
-
-## 🐜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
