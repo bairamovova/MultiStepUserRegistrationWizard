@@ -1,5 +1,7 @@
 ## 🌟 Multi-Step User Registration Wizard
 
+###[DEMO](https://multi-step-user-registration-wizard.vercel.app)
+
 A modern **multi-step user registration wizard** built with **Vite + React + TypeScript + MUI + Zustand + SCSS**.
 
 ### 🚀 Features
